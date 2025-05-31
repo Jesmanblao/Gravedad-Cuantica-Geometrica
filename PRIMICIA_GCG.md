@@ -1,6 +1,6 @@
 Título del Modelo Teórico
 Gravedad Cuántica Geométrica: Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico.
-Jesús Manuel Blanco Ortiz, Venezuela
+Jesús Manuel Blanco Ortiz, Venezuela 2025
 Abstract (Resumen Ejecutivo)
 ### **Abstract: Gravedad Cuántica Geométrica**  
 **Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico**  
