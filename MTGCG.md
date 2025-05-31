@@ -12,7 +12,7 @@ El modelo introduce la **curvatura universal constante** $\mathcal{K} = 1.11 \ti
 $R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \mathcal{K} g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$ + $\kappa$ ( $\hat{\rho}_{\text{eq}}$ - \rho_{\text{esp}}$ ) + $\zeta \theta^{\alpha\beta} \nabla_\alpha \nabla_\beta g_{\mu\nu}$
 
 
-
+$\hat{\rho}_{\text{eq}}$
 La teoría es matemáticamente coherente y reproduce fenómenos observacionales, como la precesión de Mercurio, las lentes gravitacionales en cúmulos de galaxias y la expansión cósmica observada. Además, ofrece **predicciones falsables**, entre ellas la detección de **ecos cuánticos en ondas gravitacionales** y **variaciones en la ley de Hubble para $z > 3$**.
 
 La GCG representa un **enfoque basado en geometría pura**, proporcionando una interpretación alternativa a la dinámica gravitacional y cosmológica sin recurrir a entidades hipotéticas. Su formalismo autoconsistente permite explorar una estructura fundamental del universo que emerge naturalmente del equilibrio cuántico y la termodinámica del espacio-tiempo.  
