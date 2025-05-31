@@ -12,7 +12,7 @@ El modelo introduce la **curvatura universal constante** $\mathcal{K} = 1.11 \ti
 $R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \mathcal{K} g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$ + $\kappa$ $(\hat{\rho}_{\text{eq}} - \rho_{\text{esp}})$ + $\zeta \theta^{\alpha\beta} \nabla_\alpha \nabla_\beta g_{\mu\nu}$
 
 
-$\hat{\rho}_{\text{eq}}$
+$(\hat{\rho}_{\text{eq}})$
 
 $\rho_{\text{esp}}$
 
