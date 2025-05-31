@@ -65,15 +65,15 @@
         <p>Puedes acceder al documento original con todos los detalles matemáticos y fundamentos:</p>
         <p><a href="https://github.com/Jesmanblao/Gravedad-Cuantica-Geometrica/blob/main/PRIMICIA_GCG.md">📄 Ver Documento GCG</a></p>
         <div id="markdown-content"></div>
+
 <script>
     fetch('https://github.com/Jesmanblao/Gravedad-Cuantica-Geometrica/blob/main/PRIMICIA_GCG.md')
-    
         .then(response => response.text())
         .then(text => {
             document.getElementById('markdown-content').innerHTML = marked.parse(text);
+            MathJax.typeset();  // Renderiza ecuaciones después de cargar Markdown
         });
 </script>
-
 
         <h2>⚡ Última Actualización</h2>
         <p>Esta es la versión preliminar publicada el <strong>31 de mayo de 2025</strong>. Se espera una revisión y refinamiento en futuras actualizaciones.</p>
