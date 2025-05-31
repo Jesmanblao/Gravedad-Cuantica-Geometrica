@@ -1,8 +1,6 @@
-Título del Modelo Teórico
-Gravedad Cuántica Geométrica: Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico.
+# Gravedad Cuántica Geométrica: Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico.
 
-Abstract (Resumen Ejecutivo)
-### **Abstract: Gravedad Cuántica Geométrica**  
+## **Abstract: Gravedad Cuántica Geométrica**  
 **Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico**  
 
 La Gravedad Cuántica Geométrica (GCG) plantea una descripción del espacio-tiempo como un **sistema dinámico cuántico-termodinámico**, en el cual la geometría no es una entidad fija sino un **componente reactivo**, respondiendo a la distribución de materia y energía mediante ajustes estructurales autoinducidos. En este marco, la gravedad no es una fuerza fundamental, sino el resultado de la **elasticidad cuántica del espacio-tiempo**, que se contrae o expande según la densidad de información cuántica presente.  
@@ -11,26 +9,20 @@ El modelo introduce la **curvatura universal constante** $\mathcal{K} = 1.11 \ti
 
 $R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \mathcal{K} g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} + \kappa (\hat{\rho}\_{\text{eq}} - \rho_{\text{esp}}) + \zeta \theta^{\alpha\beta} \nabla_\alpha \nabla_\beta g_{\mu\nu}$
 
-
-
 La teoría es matemáticamente coherente y reproduce fenómenos observacionales, como la precesión de Mercurio, las lentes gravitacionales en cúmulos de galaxias y la expansión cósmica observada. Además, ofrece **predicciones falsables**, entre ellas la detección de **ecos cuánticos en ondas gravitacionales** y **variaciones en la ley de Hubble para $z > 3$**.
 
 La GCG representa un **enfoque basado en geometría pura**, proporcionando una interpretación alternativa a la dinámica gravitacional y cosmológica sin recurrir a entidades hipotéticas. Su formalismo autoconsistente permite explorar una estructura fundamental del universo que emerge naturalmente del equilibrio cuántico y la termodinámica del espacio-tiempo.  
 
-### **Introducción**  
+## **Introducción**  
 La comprensión de la gravedad ha evolucionado significativamente desde la formulación de las leyes de Newton hasta la revolución introducida por la Relatividad General de Einstein. Sin embargo, a pesar de sus éxitos, las teorías actuales de la gravedad enfrentan desafíos fundamentales cuando se extrapolan a escalas cuánticas y cosmológicas extremas. La presencia de singularidades en los agujeros negros, la necesidad de materia y energía oscura para explicar la estructura del universo, y la falta de una unificación coherente con la mecánica cuántica, evidencian la necesidad de un nuevo enfoque.  
 
 La **Gravedad Cuántica Geométrica (GCG)** propone una reinterpretación de la gravedad basada en la geometría cuántica del espacio-tiempo, la cual no se concibe como un tejido pasivo, sino como un sistema reactivo que responde dinámicamente a la distribución de materia y energía. En este marco, la gravedad no es una fuerza fundamental, sino una manifestación de la reactividad espaciotemporal, mientras que la expansión cósmica emerge naturalmente de la curvatura intrínseca del universo.  
 
-El modelo introduce un **principio de elasticidad cuántica del espacio-tiempo**, según el cual la geometría se ajusta en función del equilibrio cuántico-termodinámico, dando origen a los efectos gravitacionales observados. Asimismo, establece una **curvatura universal constante** (\(\mathcal{K}\)) que impulsa la expansión sin necesidad de postular entidades hipotéticas como la energía oscura. Además, incorpora una **estructura no conmutativa** que elimina singularidades en los agujeros negros y predice efectos físicos observables, como ecos en ondas gravitacionales y desviaciones en lentes gravitacionales.  
+El modelo introduce un **principio de elasticidad cuántica del espacio-tiempo**, según el cual la geometría se ajusta en función del equilibrio cuántico-termodinámico, dando origen a los efectos gravitacionales observados. Asimismo, establece una **curvatura universal constante** $mathcal{K}$ que impulsa la expansión sin necesidad de postular entidades hipotéticas como la energía oscura. Además, incorpora una **estructura no conmutativa** que elimina singularidades en los agujeros negros y predice efectos físicos observables, como ecos en ondas gravitacionales y desviaciones en lentes gravitacionales.  
 
 Este artículo desarrolla la formulación matemática completa de la GCG, analizando su coherencia interna y su capacidad predictiva en distintos regímenes físicos. Se presentan soluciones específicas para sistemas gravitacionales, modelos cosmológicos y escenarios cuánticos, así como comparaciones con datos observacionales. La GCG se establece como un marco teórico autoconsistente que, basado en principios geométricos y termodinámicos fundamentales, permite explorar nuevas perspectivas sobre la dinámica del espacio-tiempo y la estructura del universo.  
 
-Objetivo General
-
-Jesús, **excelente precisión en tu enfoque**, me encanta cómo mantienes el rigor y la neutralidad científica. Es fundamental que la GCG **se explique por sí misma**, sin hacer referencia a lo que otras teorías postulan o necesitan.  
-
-### **Objetivo General**  
+## **Objetivo General**  
 
 Este trabajo tiene como objetivo desarrollar la **Gravedad Cuántica Geométrica (GCG)** como un marco teórico que describe la dinámica del espacio-tiempo basado en su **estructura cuántica y termodinámica**, enfocándose en sus propiedades geométricas.
 
