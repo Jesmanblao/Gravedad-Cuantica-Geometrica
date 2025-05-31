@@ -7,7 +7,7 @@ Abstract (Resumen Ejecutivo)
 
 La Gravedad Cuántica Geométrica (GCG) plantea una descripción del espacio-tiempo como un **sistema dinámico cuántico-termodinámico**, en el cual la geometría no es una entidad fija sino un **componente reactivo**, respondiendo a la distribución de materia y energía mediante ajustes estructurales autoinducidos. En este marco, la gravedad no es una fuerza fundamental, sino el resultado de la **elasticidad cuántica del espacio-tiempo**, que se contrae o expande según la densidad de información cuántica presente.  
 
-El modelo introduce la **curvatura universal constante** $\mathcal{K} = 1.11 \times 10^{-52} \text{m}^{-2}$, un parámetro geométrico que **dicta la expansión cósmica sin necesidad de energía oscura**, mientras que la **geometría no conmutativa** establece un límite inferior para la formación de singularidades (\(r_{\text{min}} = \theta_0 > 0\)), eliminando la divergencia en los agujeros negros. La ecuación de campo de la GCG se expresa como:  
+El modelo introduce la **curvatura universal constante** $\mathcal{K} = 1.11 \times 10^{-52} \text{m}^{-2}$, un parámetro geométrico que **dicta la expansión cósmica sin necesidad de energía oscura**, mientras que la **geometría no conmutativa** establece un límite inferior para la formación de singularidades $$ r_{\text{min}} = \theta_0 > 0 $$, eliminando la divergencia en los agujeros negros. La ecuación de campo de la GCG se expresa como:  
 
 \[
 R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \mathcal{K} g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} + \kappa (\hat{\rho}_{\text{eq}} - \rho_{\text{esp}}) + \zeta \theta^{\alpha\beta} \nabla_\alpha \nabla_\beta g_{\mu\nu}
