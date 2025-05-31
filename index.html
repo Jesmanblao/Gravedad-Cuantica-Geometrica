@@ -67,7 +67,7 @@
         <div id="markdown-content"></div>
 
 <script>
-    fetch('https://github.com/Jesmanblao/Gravedad-Cuantica-Geometrica/blob/main/PRIMICIA_GCG.md')
+    fetch('https://raw.githubusercontent.com/Jesmanblao/Gravedad-Cuantica-Geometrica/main/PRIMICIA_GCG.md')
         .then(response => response.text())
         .then(text => {
             document.getElementById('markdown-content').innerHTML = marked.parse(text);
