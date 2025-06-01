@@ -90,7 +90,7 @@ La teoría GCG propone un **cambio de paradigma radical**: el espacio-tiempo no 
 - **Mecanismo fundamental**:  
   - **Contracción**: Donde hay materia $(\(\rho_m > 0\))$, el espacio-tiempo fluye hacia las masas para satisfacer $\(\rho_{\text{eq}} = \frac{m^4 c^5}{\hbar^3}\)$ (demanda de volumen cuántico).  
   - **Expansión**: En vacíos cósmicos $(\(\rho_m \approx 0\))$, el exceso de espacio-tiempo se manifiesta como energía oscura $(\Lambda = \mathcal{K}\)$.  
-
+  
 - **Analogía física**:  
   ```  
   Imagina un océano inteligente (espacio-tiempo) que:  
@@ -109,40 +109,34 @@ $\boxed{\text{Energía} \rightleftharpoons {\text{Expansión} \quad \text{Contra
   $\text{Energía} \rightarrow \text{Materia (cuantos)} + \text{Geometría (espacio-tiempo continuo)}$
 
 2. **Evolución**:  
-   - La materia "demanda" geometría para estabilizarse $(\(\leftrightarrow\)$ gravedad)$.  
-   - El exceso de geometría se relaja $(\(\leftrightarrow\) energía oscura)$.  
+   - La materia "demanda" geometría para estabilizarse ($\leftrightarrow$ gravedad).  
+   - El exceso de geometría se relaja ($\leftrightarrow$ energía oscura).  
 
----
-
-#### **Curvatura Universal Constante (\(\mathcal{K}\))**  
-> *"El espacio-tiempo tiene una curvatura intrínseca invariante \(\mathcal{K}\) (análoga a \(c\)), independiente del observador o la escala, que dicta la tasa de expansión del universo."*  
-
+### **Curvatura Universal Constante $(\mathcal{K}\)$**  
+> *"El espacio-tiempo tiene una curvatura intrínseca invariante* $\(\mathcal{K}\)$ *(análoga a* $\(c\)$*), independiente del observador o la escala, que dicta la tasa de expansión del universo."*
+ 
 | **Teoría Clásica**         | **GCG**                                     |  
 |----------------------------|---------------------------------------------|  
-| Energía oscura como sustancia | \(\mathcal{K}\) como propiedad geométrica |  
-| \(\Lambda\) ajustada finamente | \(\mathcal{K} = 1.11 \times 10^{-52} \text{m}^{-2}\) (medida) |  
+| Energía oscura como sustancia | $\(\mathcal{K}\)$ como propiedad geométrica |  
+| $\(\Lambda\)$ ajustada finamente | $\(\mathcal{K} = 1.11 \times 10^{-52} \text{m}^{-2}\)$ (medida) |  
 | Expansión "acelerada"      | Expansión "natural" por curvatura intrínseca |  
 
 **Implicación filosófica**:  
-> *"El universo no acelera; siempre se expandió a la tasa dictada por \(\mathcal{K}\), pero sus efectos solo son dominantes cuando la materia se diluye."*  
+> *"El universo no acelera; siempre se expandió a la tasa dictada por* $\(\mathcal{K}\)$*, pero sus efectos solo son dominantes cuando la materia se diluye."*  
 
----
-
-#### **No Conmutatividad Dinámica (NCD)**  
-> *"La geometría del espacio-tiempo es inherentemente no conmutativa a escalas cuánticas, con un parámetro \(\theta^{\mu\nu}\) que escala con la expansión cósmica."*  
+### **No Conmutatividad Dinámica (NCD)**  
+> *"La geometría del espacio-tiempo es inherentemente no conmutativa a escalas cuánticas, con un parámetro* $\(\theta^{\mu\nu}\)$ *que escala con la expansión cósmica."*  
 
 **Manifestaciones clave**:  
-- **Microescala** (\(\theta \sim \ell_p = 10^{-35} \text{m}\)):  
-  - Elimina singularidades (\(r_{\text{min}} = \theta_0 > 0\)).  
+- **Microescala** $(\(\theta \sim \ell_p = 10^{-35} \text{m}\))$:  
+  - Elimina singularidades $(\(r_{\text{min}} = \theta_0 > 0\))$.  
   - Genera ecos en ondas gravitacionales.  
-- **Macroescala** (\(\theta \propto a^3(t)\)):  
+- **Macroescala** $(\(\theta \propto a^3(t)\))$:  
   - Explica excesos en lentes gravitacionales.  
   - Predice desviaciones en cúmulos de galaxias.  
 
 **Revolución conceptual**:  
 > *"El espacio-tiempo no es un continuo suave, sino un **tejido cuántico con textura variable** que se 'estira' cósmicamente."*  
-
----
 
 #### **Ciclo de Relajación Holográfica (CRH)**  
 **Cuando la materia desaparece (ej: evaporación de agujeros negros):**  
