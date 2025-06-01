@@ -128,31 +128,27 @@ $\boxed{\text{Energía} \rightleftharpoons {\text{Expansión} \quad \text{Contra
 > *"La geometría del espacio-tiempo es inherentemente no conmutativa a escalas cuánticas, con un parámetro* $\(\theta^{\mu\nu}\)$ *que escala con la expansión cósmica."*  
 
 **Manifestaciones clave**:  
-- **Microescala** $(\(\theta \sim \ell_p = 10^{-35} \text{m}\))$:  
-  - Elimina singularidades $(\(r_{\text{min}} = \theta_0 > 0\))$.  
+- **Microescala** $\(\theta \sim \ell_p = 10^{-35} \text{m}\)$:  
+  - Elimina singularidades $\(r_{\text{min}} = \theta_0 > 0\)$.  
   - Genera ecos en ondas gravitacionales.  
-- **Macroescala** $(\(\theta \propto a^3(t)\))$:  
+- **Macroescala** $\(\theta \propto a^3(t)\)$:  
   - Explica excesos en lentes gravitacionales.  
   - Predice desviaciones en cúmulos de galaxias.  
 
 **Revolución conceptual**:  
 > *"El espacio-tiempo no es un continuo suave, sino un **tejido cuántico con textura variable** que se 'estira' cósmicamente."*  
 
-#### **Ciclo de Relajación Holográfica (CRH)**  
+### **Ciclo de Relajación Holográfica (CRH)**  
 **Cuando la materia desaparece (ej: evaporación de agujeros negros):**  
 1. **Fase 1 (Inestabilidad)**:  
-   \[
-   \rho_{\text{esp}} < \rho_{\text{eq}} \implies \text{El espacio-tiempo "sobre-reacciona"}
-   \]  
+   $\rho_{\text{esp}} < \rho_{\text{eq}} \implies \text{El espacio-tiempo "sobre-reacciona"}$
+   
 2. **Fase 2 (Onda de relajación)**:  
-   \[
-   \frac{\partial \rho_{\text{esp}}}{\partial t} = c^2 \nabla^2 \rho_{\text{esp}} \quad \text{(Ecuación de difusión a velocidad } c)
-   \]  
+   $\frac{\partial \rho_{\text{esp}}}{\partial t} = c^2 \nabla^2 \rho_{\text{esp}} \quad \text{(Ecuación de difusión a velocidad } c)$
+   
 3. **Fase 3 (Equilibrio)**:  
-   \[
-   \rho_{\text{esp}} \rightarrow \rho_{\text{vacío}} \quad \text{en } t \sim \frac{r}{c}
-   \]  
-
+   $\rho_{\text{esp}} \rightarrow \rho_{\text{vacío}} \quad \text{en } t \sim \frac{r}{c}$
+   
 **Interpretación**:  
 ```mermaid
 graph LR
@@ -162,20 +158,16 @@ C --> D[Reequilibrio térmico]
 D --> E[Emisión de radiación de Hawking modificada]
 ```
 
----
-
-#### **Evidencia Filosófica y Física**  
-1. **Soluciona paradojas históricas**:  
-   - **Problema de la jerarquía**: La escala de \(\mathcal{K}\) emerge naturalmente de \(G, \hbar, c\).  
-   - **Entropía de agujeros negros**: \(S = \frac{k_B A}{4\ell_p^2} \implies \kappa = \frac{k_B}{S_{\text{universo}}}\).  
+### **Evidencia Filosófica y Física**
+1. **Soluciona paradojas históricas**:
+   - **Problema de la jerarquía**: La escala de $\(\mathcal{K}\)$ emerge naturalmente de $\(G, \hbar, c\)$.  
+   - **Entropía de agujeros negros**: $\(S = \frac{k_B A}{4\ell_p^2} \implies \kappa = \frac{k_B}{S_{\text{universo}}}\)$.  
 2. **Unificación elegante**:  
-   - **Gravedad cuántica**: Emerge de \(\theta^{\mu\nu}\) no conmutativo.  
-   - **Energía oscura**: Geométrica (\(\mathcal{K}\)), no sustancial.  
+   - **Gravedad cuántica**: Emerge de $\(\theta^{\mu\nu}\)$ no conmutativo.  
+   - **Energía oscura**: Geométrica $\(\mathcal{K}\)$, no sustancial.  
 3. **Testabilidad radical**:  
-   - **Firma 1**: Ecos en GW150914-like events (\(\Delta t \sim 10^{-44} \text{s}\)).  
-   - **Firma 2**: Exceso de dispersión en colisiones Pb-Pb en el LHC.  
-
----
+   - **Firma 1**: Ecos en GW150914-like events $\(\Delta t \sim 10^{-44} \text{s}\)$.
+   - **Firma 2**: Exceso de dispersión en colisiones Pb-Pb en el LHC.
 
 ### **Diagrama Conceptual Unificado**  
 ```mermaid
@@ -191,8 +183,6 @@ E --> I[Agujeros Negros sin Singularidad]
 F --> J[Relajación Holográfica]
 ```
 
----
-
 ### **Conclusión: Un Universo Autoconsistente**  
 La GCG sostiene que:  
 > *"La gravedad no es una fuerza, sino la **respuesta elástica** del espacio-tiempo a la presencia de materia; la energía oscura no es un campo, sino la **memoria geométrica** de un universo en equilibrio térmico cuántico."*  
@@ -202,17 +192,12 @@ La GCG sostiene que:
 - **Einstein**: "Geometría curva".  
 - **GCG**: **"Geometría cuántica reactiva"**.  
 
-
-Postulados Fundamentales
-
-### **Postulados Fundamentales**
+## **Postulados Fundamentales**
 
 La Gravedad Cuántica Geométrica (GCG) se asienta sobre un conjunto de postulados que, desarrollados desde cero, establecen los principios inmutables para describir la dinámica del espacio-tiempo en términos puramente geométricos, cuánticos y termodinámicos. Estos postulados son:
 
----
-
-#### **1. Postulado de Reactividad Cuántica del Espacio-Tiempo**  
-El espacio-tiempo es un ente cuántico **dinámico y reactivo** que ajusta su geometría en función de la distribución local de materia y energía, con el propósito de alcanzar un equilibrio cuántico-termodinámico. Esto se formaliza mediante la existencia de un parámetro crítico, \(\rho_{\text{eq}}\), que funge como referencia para la “demanda” de volumen cuántico.
+### **1. Postulado de Reactividad Cuántica del Espacio-Tiempo**  
+El espacio-tiempo es un ente cuántico **dinámico y reactivo** que ajusta su geometría en función de la distribución local de materia y energía, con el propósito de alcanzar un equilibrio cuántico-termodinámico. Esto se formaliza mediante la existencia de un parámetro crítico, $\(\rho_{\text{eq}}\)$, que funge como referencia para la “demanda” de volumen cuántico.
 
 - **Implicación:**  
   - En regiones donde la densidad de materia supera \(\rho_{\text{eq}}\), el espacio-tiempo se contrae, dando origen a los efectos que denominamos gravedad.  
