@@ -1,5 +1,5 @@
 # Gravedad Cuántica Geométrica: Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico.
-
+*Jesús Manuel Blanco Ortiz, Venezuela, Mayo 2025*
 ## **Abstract: Gravedad Cuántica Geométrica**  
 **Dinámica del Espacio-Tiempo en un Marco Cuántico y Termodinámico**  
 
