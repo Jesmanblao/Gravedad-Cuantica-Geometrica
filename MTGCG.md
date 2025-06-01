@@ -62,7 +62,7 @@ La **Gravedad Cuántica Geométrica (GCG)** se fundamenta en principios matemát
 
 ✔ **Implicaciones:**  
 - La expansión cósmica no requiere factores externos, es una consecuencia geométrica.  
-- $\mathcal{K}$ es una propiedad fundamental del espacio-tiempo.  
+- $\(\mathcal{K}\)$ es una propiedad fundamental del espacio-tiempo.  
 - La evolución cósmica sigue patrones de ajuste geométrico naturales.  
 
 ### **3. Geometría No Conmutativa del Espacio-Tiempo**  
@@ -73,9 +73,7 @@ La **Gravedad Cuántica Geométrica (GCG)** se fundamenta en principios matemát
 - Los sistemas gravitacionales evolucionan sin discontinuidades.  
 - Se pueden detectar modificaciones en la propagación de ondas gravitacionales.  
 
----
-
-#### **4️⃣ Equilibrio Termodinámico Cuántico del Universo**  
+### **4. Equilibrio Termodinámico Cuántico del Universo**  
 > *La dinámica del espacio-tiempo está gobernada por principios de equilibrio cuántico-termodinámico, lo que permite una evolución ordenada sin necesidad de términos arbitrarios.*  
 
 ✔ **Implicaciones:**  
@@ -83,20 +81,15 @@ La **Gravedad Cuántica Geométrica (GCG)** se fundamenta en principios matemát
 - La relación entre materia y espacio-tiempo es una expresión del equilibrio cuántico.  
 - La expansión cósmica está vinculada a procesos de relajación geométrica.  
 
-
-Marco Conceptual de la Teoría
-
-### **Marco Conceptual de la Teoría: Gravedad Cuántica Geometrodinámica (GCG)**  
+## **Marco Conceptual de la Teoría: Gravedad Cuántica Geometrodinámica (GCG)**  
 La teoría GCG propone un **cambio de paradigma radical**: el espacio-tiempo no es un escenario pasivo, sino un **ente cuántico dinámico** cuya geometría reacciona a la materia para mantener el equilibrio termodinámico-cuántico del universo. Presentamos los pilares conceptuales:
 
----
-
-#### **Principio de Reactividad Espaciotemporal (PRE)**  
+### **Principio de Reactividad Espaciotemporal (PRE)**  
 > *"El espacio-tiempo posee una **elasticidad cuántica intrínseca** que lo hace contraerse o expandirse localmente para compensar desequilibrios en la densidad de información por unidad de volumen."*  
 
 - **Mecanismo fundamental**:  
-  - **Contracción**: Donde hay materia (\(\rho_m > 0\)), el espacio-tiempo fluye hacia las masas para satisfacer \(\rho_{\text{eq}} = \frac{m^4 c^5}{\hbar^3}\) (demanda de volumen cuántico).  
-  - **Expansión**: En vacíos cósmicos (\(\rho_m \approx 0\)), el exceso de espacio-tiempo se manifiesta como energía oscura (\(\Lambda = \mathcal{K}\)).  
+  - **Contracción**: Donde hay materia $(\(\rho_m > 0\))$, el espacio-tiempo fluye hacia las masas para satisfacer $\(\rho_{\text{eq}} = \frac{m^4 c^5}{\hbar^3}\)$ (demanda de volumen cuántico).  
+  - **Expansión**: En vacíos cósmicos $(\(\rho_m \approx 0\))$, el exceso de espacio-tiempo se manifiesta como energía oscura $(\Lambda = \mathcal{K}\)$.  
 
 - **Analogía física**:  
   ```  
@@ -105,24 +98,19 @@ La teoría GCG propone un **cambio de paradigma radical**: el espacio-tiempo no 
   2. Inunda áreas desocupadas cuando no hay barcos.  
   Este abrazo es la gravedad; la inundación, la energía oscura.  
   ```
-
----
-
-#### **Dualidad Geometro-Material (DGM)**  
+### **Dualidad Geometro-Material (DGM)**  
 > *"Materia y geometría son facetas intercambiables de la energía primordial, relacionadas por un principio holográfico cuántico."*  
 
 **Ecuación simbólica**:  
-\[
-\boxed{\text{Energía} \xrightleftharpoons[\text{Expansión}]{\text{Contracción}} \text{Materia} + \text{Geometría}
-\]  
+$\boxed{\text{Energía} \rightleftharpoons {\text{Expansión} \quad \text{Contracción}} = \text{Materia} + \text{Geometría}}$ 
+
 **Proceso cosmológico**:  
 1. **Fase temprana**:  
-   \[
-   \text{Energía} \rightarrow \text{Materia (cuantos)} + \text{Geometría (espacio-tiempo continuo)}
-   \]  
+  $\text{Energía} \rightarrow \text{Materia (cuantos)} + \text{Geometría (espacio-tiempo continuo)}$
+
 2. **Evolución**:  
-   - La materia "demanda" geometría para estabilizarse (\(\leftrightarrow\) gravedad).  
-   - El exceso de geometría se relaja (\(\leftrightarrow\) energía oscura).  
+   - La materia "demanda" geometría para estabilizarse $(\(\leftrightarrow\)$ gravedad)$.  
+   - El exceso de geometría se relaja $(\(\leftrightarrow\) energía oscura)$.  
 
 ---
 
