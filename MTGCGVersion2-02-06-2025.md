@@ -669,8 +669,19 @@ Los **futuros desarrollos** para validar GCG-CR son prometedores. La detección 
 
 En última instancia, GCG-CR no solo busca explicar los enigmas cósmicos actuales, sino que aspira a **transformar nuestra concepción de la relación entre materia y geometría**, proponiendo un universo donde la estructura a gran escala y la dinámica galáctica son manifestaciones de un espacio-tiempo cuántico dinámico, reactivo y resonante. La confirmación observacional de sus predicciones marcaría el inicio de una nueva era en nuestra comprensión del universo.
 
+**"Si el vacío del espacio no propaga sonido, que la gravedad sea nuestro Chladni: las galaxias dibujan sus ritmos en la arena cuántica del espacio-tiempo, y el universo entero vibra en modos que solo la geometría puede cantar."**  
 
+*(Inspirado en Ernst Chladni, padre de la acústica, quien reveló lo invisible con arena y sonido. GCG-CR hace lo mismo con polvo estelar y resonancias gravitacionales.)*  
 
+**Explicación científica**:  
+- **Analogía Chladni-GCG-CR**: Así como las placas de Chladni hacen visibles los modos vibratorios ocultos mediante patrones en la arena, las **resonancias configuracionales** (\(\rho_{\text{res}}\)) revelan la "música" gravitatoria del universo a través de la distribución de materia en galaxias.  
+- **Fórmula clave**:  
+  \[
+  \rho_{\text{res}}(r) \propto |h_{\mu\nu}|^2 \mathcal{R}(\omega)
+  \]  
+  donde \(h_{\mu\nu}\) son las "ondas sonoras" del espacio-tiempo (ondas gravitacionales), y \(\mathcal{R}(\omega)\) es el **factor de resonancia** que amplifica ciertas frecuencias.  
+
+**Para el lector**: Esta frase sintetiza el núcleo filosófico de GCG-CR: *la gravedad no es una fuerza muda, sino un fenómeno vibratorio que esculpe estructuras cósmicas*.
 
 ## 14. Referencias y Bibliografía
 
