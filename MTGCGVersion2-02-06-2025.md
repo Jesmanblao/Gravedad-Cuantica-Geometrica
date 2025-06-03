@@ -62,7 +62,7 @@ La interacción dinámica entre un espacio-tiempo cuántico y la materia-energí
 > *"Así como una placa de Chladni forma patrones bajo vibraciones acústicas, el espacio-tiempo galáctico desarrolla 'figuras de densidad resonante' cuando es excitado por ondas gravitacionales internas."*  
 
 **Proceso en 4 etapas**:  
-1. **Fuente de ondas**: Agujeros negros supermasivos o colisiones generan ondas gravitacionales $(\(\omega_{\text{GW}} \sim 10^{-15}\) Hz)$.  
+1. **Fuente de ondas**: Agujeros negros supermasivos o colisiones generan ondas gravitacionales $(\omega_{\text{GW}} \sim 10^{-15}\) Hz$.  
 2. **Acoplamiento resonante**:  
    
    $\Delta\omega = |\omega_{\text{GW}} - \omega_{\text{gal}}| < \Gamma \quad ; \quad \omega_{\text{gal}} = \sqrt{\frac{GM(r)}{r^3}}$
@@ -137,7 +137,7 @@ La teoría GCG-CR propone un **cambio de paradigma**:
 - **Desaparece la dicotomía materia-geometría**: El espacio-tiempo es un medio activo que genera efectos "oscuros" mediante su dinámica cuántica.  
 - **Unificación de escalas**: Un mismo principio (geometría resonante) explica fenómenos desde agujeros negros hasta expansión cósmica.  
 - **Testabilidad**: Predice firmas observables en:  
-  - Espectro de ondas gravitacionales ultra-bajas $(\(10^{-15}\) Hz)$.  
+  - Espectro de ondas gravitacionales ultra-bajas $(10^{-15}\) Hz$.  
   - Distorsiones asimétricas en lentes gravitacionales.  
   - Evolución temprana de discos galácticos.  
 
