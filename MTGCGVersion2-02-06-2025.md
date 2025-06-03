@@ -695,3 +695,4 @@ En última instancia, GCG-CR no solo busca explicar los enigmas cósmicos actual
 
 [10] T. Clifton, P. G. Ferreira, A. Padilla, and C. Skordis, "Modified Gravity and Cosmology," Physics Reports, vol. 513, no. 1-3, pp. 1–189, 2012.
 
+[11] E. F. F. Chladni, Entdeckungen über die Theorie des Klanges. Leipzig: Weidmanns Erben und Reich, 1787.
